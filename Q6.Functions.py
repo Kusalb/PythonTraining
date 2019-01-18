@@ -1,0 +1,12 @@
+power = pow(6,2)
+print (power)
+print (bool(2))
+print (bool(0))
+list = [1,2,3]
+print(len(list))
+list.append(5)
+print(list)
+print(min(list))
+print(max(list))
+value = input("Enter a value")
+print(abs(4.5214124))
